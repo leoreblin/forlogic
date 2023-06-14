@@ -19,6 +19,10 @@
     cursor: pointer;
 }
 
+a {
+    color: #0084c2;
+}
+
 a:hover {
     text-decoration: none;
 }
